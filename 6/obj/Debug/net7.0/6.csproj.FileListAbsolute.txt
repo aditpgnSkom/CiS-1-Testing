@@ -1,0 +1,15 @@
+F:\Belajar\CS\1 - Testing\6\bin\Debug\net7.0\6.exe
+F:\Belajar\CS\1 - Testing\6\bin\Debug\net7.0\6.deps.json
+F:\Belajar\CS\1 - Testing\6\bin\Debug\net7.0\6.runtimeconfig.json
+F:\Belajar\CS\1 - Testing\6\bin\Debug\net7.0\6.dll
+F:\Belajar\CS\1 - Testing\6\bin\Debug\net7.0\6.pdb
+F:\Belajar\CS\1 - Testing\6\obj\Debug\net7.0\6.csproj.AssemblyReference.cache
+F:\Belajar\CS\1 - Testing\6\obj\Debug\net7.0\6.GeneratedMSBuildEditorConfig.editorconfig
+F:\Belajar\CS\1 - Testing\6\obj\Debug\net7.0\6.AssemblyInfoInputs.cache
+F:\Belajar\CS\1 - Testing\6\obj\Debug\net7.0\6.AssemblyInfo.cs
+F:\Belajar\CS\1 - Testing\6\obj\Debug\net7.0\6.csproj.CoreCompileInputs.cache
+F:\Belajar\CS\1 - Testing\6\obj\Debug\net7.0\6.dll
+F:\Belajar\CS\1 - Testing\6\obj\Debug\net7.0\refint\6.dll
+F:\Belajar\CS\1 - Testing\6\obj\Debug\net7.0\6.pdb
+F:\Belajar\CS\1 - Testing\6\obj\Debug\net7.0\6.genruntimeconfig.cache
+F:\Belajar\CS\1 - Testing\6\obj\Debug\net7.0\ref\6.dll
